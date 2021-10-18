@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games.Solution", "Games.Solution\Games.Solution.csproj", "{FD5F8E80-00FC-47D1-97FE-70229E380B58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{A5E3BE4C-A615-4F8B-A34D-47CCE06D87DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{3F2F56E8-555B-4A72-BB2E-C7623B874AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Cards", "Common.Cards\Common.Cards.csproj", "{AB3A6BE1-18C3-415A-AE73-0A806B8041CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games.Blackjack", "Games.Blackjack\Games.Blackjack.csproj", "{5D72DB4D-4CC2-4086-B4DB-5FBC3038A836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5F8E80-00FC-47D1-97FE-70229E380B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5F8E80-00FC-47D1-97FE-70229E380B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5F8E80-00FC-47D1-97FE-70229E380B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5F8E80-00FC-47D1-97FE-70229E380B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3A6BE1-18C3-415A-AE73-0A806B8041CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3A6BE1-18C3-415A-AE73-0A806B8041CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3A6BE1-18C3-415A-AE73-0A806B8041CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3A6BE1-18C3-415A-AE73-0A806B8041CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D72DB4D-4CC2-4086-B4DB-5FBC3038A836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D72DB4D-4CC2-4086-B4DB-5FBC3038A836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D72DB4D-4CC2-4086-B4DB-5FBC3038A836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D72DB4D-4CC2-4086-B4DB-5FBC3038A836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB3A6BE1-18C3-415A-AE73-0A806B8041CA} = {A5E3BE4C-A615-4F8B-A34D-47CCE06D87DB}
+		{5D72DB4D-4CC2-4086-B4DB-5FBC3038A836} = {3F2F56E8-555B-4A72-BB2E-C7623B874AB7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12D9206-A15A-4F6D-A464-04FB620D87FE}
+	EndGlobalSection
+EndGlobal

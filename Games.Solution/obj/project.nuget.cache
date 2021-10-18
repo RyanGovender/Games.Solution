@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJiEAzsoK02YU5gypV3Mv9+FR/+9RVcBYSIl9jqJk4dNeBNKUObXqPxsy5dgZpwrA/hltDVIj+sM4f1cce5M9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rgovender\\source\\repos\\Games.Solution\\Games.Solution\\Games.Solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgovender\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.2\\microsoft.netcore.app.host.win-x64.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

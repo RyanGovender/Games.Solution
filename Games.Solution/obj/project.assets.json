@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Common.Cards/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Common.Cards.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Cards.dll": {}
+        }
+      },
+      "Games.Blackjack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Common.Cards": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Games.Blackjack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Games.Blackjack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common.Cards/1.0.0": {
+      "type": "project",
+      "path": "../Common.Cards/Common.Cards.csproj",
+      "msbuildProject": "../Common.Cards/Common.Cards.csproj"
+    },
+    "Games.Blackjack/1.0.0": {
+      "type": "project",
+      "path": "../Games.Blackjack/Games.Blackjack.csproj",
+      "msbuildProject": "../Games.Blackjack/Games.Blackjack.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Games.Blackjack >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rgovender\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rgovender\\source\\repos\\Games.Solution\\Games.Solution\\Games.Solution.csproj",
+      "projectName": "Games.Solution",
+      "projectPath": "C:\\Users\\rgovender\\source\\repos\\Games.Solution\\Games.Solution\\Games.Solution.csproj",
+      "packagesPath": "C:\\Users\\rgovender\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rgovender\\source\\repos\\Games.Solution\\Games.Solution\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rgovender\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\rgovender\\source\\repos\\Games.Solution\\Games.Blackjack\\Games.Blackjack.csproj": {
+              "projectPath": "C:\\Users\\rgovender\\source\\repos\\Games.Solution\\Games.Blackjack\\Games.Blackjack.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.2, 5.0.2]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.1.21103.13\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

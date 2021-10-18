@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Games.Blackjack/1.0.0": {
+        "dependencies": {
+          "Common.Cards": "1.0.0"
+        },
+        "runtime": {
+          "Games.Blackjack.dll": {}
+        }
+      },
+      "Common.Cards/1.0.0": {
+        "runtime": {
+          "Common.Cards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Games.Blackjack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Cards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

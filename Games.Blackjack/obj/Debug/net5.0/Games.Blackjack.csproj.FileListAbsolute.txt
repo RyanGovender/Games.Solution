@@ -1,0 +1,15 @@
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\bin\Debug\net5.0\Games.Blackjack.deps.json
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\bin\Debug\net5.0\Games.Blackjack.dll
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\bin\Debug\net5.0\ref\Games.Blackjack.dll
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\bin\Debug\net5.0\Games.Blackjack.pdb
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\bin\Debug\net5.0\Common.Cards.dll
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\bin\Debug\net5.0\Common.Cards.pdb
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.csproj.AssemblyReference.cache
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.AssemblyInfoInputs.cache
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.AssemblyInfo.cs
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.csproj.CopyComplete
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.dll
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\ref\Games.Blackjack.dll
+C:\Users\rgovender\source\repos\Games.Solution\Games.Blackjack\obj\Debug\net5.0\Games.Blackjack.pdb

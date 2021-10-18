@@ -1,0 +1,12 @@
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\bin\Debug\net5.0\Common.Cards.deps.json
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\bin\Debug\net5.0\Common.Cards.dll
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\bin\Debug\net5.0\ref\Common.Cards.dll
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\bin\Debug\net5.0\Common.Cards.pdb
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\Common.Cards.csproj.AssemblyReference.cache
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\Common.Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\Common.Cards.AssemblyInfoInputs.cache
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\Common.Cards.AssemblyInfo.cs
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\Common.Cards.csproj.CoreCompileInputs.cache
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\Common.Cards.dll
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\ref\Common.Cards.dll
+C:\Users\rgovender\source\repos\Games.Solution\Common.Cards\obj\Debug\net5.0\Common.Cards.pdb
